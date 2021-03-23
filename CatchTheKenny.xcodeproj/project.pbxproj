@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		05ED90B8260A2AA900C408C6 /* CatchTheCanny.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatchTheCanny.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		05ED90B8260A2AA900C408C6 /* CatchTheKenny.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatchTheKenny.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05ED90BB260A2AA900C408C6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05ED90BD260A2AA900C408C6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		05ED90BF260A2AA900C408C6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		05ED90B9260A2AA900C408C6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				05ED90B8260A2AA900C408C6 /* CatchTheCanny.app */,
+				05ED90B8260A2AA900C408C6 /* CatchTheKenny.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		05ED90B7260A2AA900C408C6 /* CatchTheCanny */ = {
+		05ED90B7260A2AA900C408C6 /* CatchTheKenny */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 05ED90CC260A2AAB00C408C6 /* Build configuration list for PBXNativeTarget "CatchTheCanny" */;
+			buildConfigurationList = 05ED90CC260A2AAB00C408C6 /* Build configuration list for PBXNativeTarget "CatchTheKenny" */;
 			buildPhases = (
 				05ED90B4260A2AA900C408C6 /* Sources */,
 				05ED90B5260A2AA900C408C6 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = CatchTheCanny;
+			name = CatchTheKenny;
 			productName = CatchTheCanny;
-			productReference = 05ED90B8260A2AA900C408C6 /* CatchTheCanny.app */;
+			productReference = 05ED90B8260A2AA900C408C6 /* CatchTheKenny.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 05ED90B3260A2AA900C408C6 /* Build configuration list for PBXProject "CatchTheCanny" */;
+			buildConfigurationList = 05ED90B3260A2AA900C408C6 /* Build configuration list for PBXProject "CatchTheKenny" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				05ED90B7260A2AA900C408C6 /* CatchTheCanny */,
+				05ED90B7260A2AA900C408C6 /* CatchTheKenny */,
 			);
 		};
 /* End PBXProject section */
@@ -292,7 +292,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bugragoksu.CatchTheCanny;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bugragoksu.CatchTheKennyGame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -310,7 +310,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bugragoksu.CatchTheCanny;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bugragoksu.CatchTheKennyGame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		05ED90B3260A2AA900C408C6 /* Build configuration list for PBXProject "CatchTheCanny" */ = {
+		05ED90B3260A2AA900C408C6 /* Build configuration list for PBXProject "CatchTheKenny" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05ED90CA260A2AAB00C408C6 /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		05ED90CC260A2AAB00C408C6 /* Build configuration list for PBXNativeTarget "CatchTheCanny" */ = {
+		05ED90CC260A2AAB00C408C6 /* Build configuration list for PBXNativeTarget "CatchTheKenny" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05ED90CD260A2AAB00C408C6 /* Debug */,
